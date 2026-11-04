@@ -1,6 +1,6 @@
 {
-  "name": "Tiempo España",
-  "short_name": "Tiempo",
+  "name": "Boni's Weather",
+  "short_name": "Boni's Weather",
   "description": "Previsión a 7 días para cualquier ciudad o pueblo de España",
   "lang": "es",
   "start_url": "./",
